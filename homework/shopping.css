@@ -1,0 +1,54 @@
+body {
+    font-family: 'Sunflower', sans-serif;
+}
+
+.wrapper {
+    margin: 3% auto;
+    width: 60%;
+    /* border: 3px solid green; */
+}
+
+.product_image {
+    margin: 20px auto;
+    width: 40%;
+    height: 10%;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.content{
+    margin: 20px auto;
+    width: 50%;
+}
+
+.product_title {
+    display: block;
+}
+
+.product_title > h2 {
+    display:inline-block;
+    text-align: left;
+}
+
+.product_title > p {
+    display: inline-block;
+    text-align: right;
+    padding: 10px;
+}
+
+.product_order {
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.row {
+    margin-bottom: 15px;
+}
+
+button {
+    margin: 20px auto;
+    width:20%;
+}
