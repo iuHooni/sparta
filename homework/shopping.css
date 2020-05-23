@@ -39,6 +39,10 @@ img {
     padding: 10px;
 }
 
+.rate {
+    color: blue;
+}
+
 .product_order {
     margin-top: 30px;
     margin-bottom: 15px;
